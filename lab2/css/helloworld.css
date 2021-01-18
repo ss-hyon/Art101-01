@@ -1,0 +1,21 @@
+body{
+  background-color: #FFE9CE;
+  font-family: "Open Sans", sans-serif;
+}
+h1{
+font-family: Merriweather, serif;
+  color: white;
+  font-size: 300%;
+}
+p{
+  color:white;
+  font-size: 200%;
+}
+#content{
+  border-color: white;
+  border-style: solid;
+  border-radius: 8px;
+  font-family: inherit;
+  text-align: center;
+  background-color: #FFB5C2;
+}
