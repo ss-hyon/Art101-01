@@ -6,3 +6,12 @@ body{
 li{
   color: lightblue;
 }
+img{
+  float:right;
+}
+.intro{
+  position: static;
+  border-left: 20px solid pink;
+  background-color: lightgreen;
+  clear:both;
+}
