@@ -1,0 +1,10 @@
+body{
+  background-color: #FADCD9;
+}
+.script-content{
+  box-sizing: content-box;
+width: 25%;
+border: solid #b76e79 10px;
+padding: 5px;
+overflow: auto;
+}
