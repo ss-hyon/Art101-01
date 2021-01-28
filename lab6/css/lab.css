@@ -8,3 +8,24 @@ border: solid #b76e79 10px;
 padding: 5px;
 overflow: auto;
 }
+head,{
+  height: 80%;
+  margin-left: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: relative;
+  top: -60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
