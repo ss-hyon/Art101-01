@@ -1,0 +1,46 @@
+body{
+  background-color: #FADCD9
+}
+.header {
+  border-style: solid;
+  border-width: 5px;
+  border-color: #CCE7F4
+  padding: 50px;
+  text-align: center;
+  background: #CBE9E2;
+  color: white;
+  font-size: 30px;
+}
+.tag {
+  border-radius: 20px;
+  border: 2px solid orange;
+  width: 400px;
+  height: 250px;
+}
+
+header {
+  background: orange;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  padding: 2px;
+}
+
+.hello {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+  color: white;
+}
+
+.mynameis {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
+
+.dottedline {
+  border-top: 3px dotted black;
+  margin-top: 100px;
+}
