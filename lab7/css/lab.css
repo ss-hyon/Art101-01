@@ -39,8 +39,3 @@ header {
   text-align: center;
   font-size: 30px;
 }
-
-.dottedline {
-  border-top: 3px dotted black;
-  margin-top: 100px;
-}
