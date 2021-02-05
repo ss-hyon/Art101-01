@@ -4,12 +4,16 @@
 
 body {
   margin: 0;
+  background-color: #A6F7C3;
+  color: white;
+  font-size: 30px;
 }
 /* Style the header */
 .header {
-  background-color: #f1f1f1;
+  background-color: #DAF7A6;
   padding: 20px;
   text-align: center;
+  color: #A6DAF7;
 }
 
 /* Create three equal columns that floats next to each other */
@@ -24,4 +28,8 @@ body {
   content: "";
   display: table;
   clear: both;
+}
+
+img{
+  overflow: auto;
 }
