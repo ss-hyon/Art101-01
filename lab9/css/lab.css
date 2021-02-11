@@ -1,0 +1,17 @@
+body{
+  background-color: #E4CDD3;
+  color: #5E081E;
+}
+#output{
+  background-color: white;
+  color: #E48397;
+}
+.header-img {
+  width: 100%;
+  height:200px;
+  background: url('../img/lychee.jpg');
+  background-size: cover;
+}
+h1{
+  color: #8A9A5B;
+}
