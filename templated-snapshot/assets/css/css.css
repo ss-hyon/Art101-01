@@ -1,0 +1,9 @@
+.media{
+  border:solid 50px lightblue;
+}
+.content{
+border:solid pink;
+}
+div.media, a img{
+  border:60px solid green;
+}
