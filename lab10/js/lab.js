@@ -22,10 +22,12 @@
   // find the element
      var button = document.getElementById('my-button');
      button.addEventListener("click", function() {
+         console.log("Submitted");
   // finding the value of the element
          var userName = document.getElementById('user-name').value;
- // declaring the sorted name function
+ // declaring the sorted name
          var sortedName = sorted(userName);
- // output element
+ // get the element output div
          var outputArea = document.getElementById('output');
+ // put new value in output
          outputArea.innerText = sortedName;})

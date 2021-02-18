@@ -1,0 +1,16 @@
+.special{
+    background: pink;
+  border-style: solid;
+  border-color: #cae7c1;
+  color: white;
+}
+body{
+  background: url('../img/green.jpg');
+  background-repeat: repeat;
+  background-size: cover;
+}
+#contents{
+  background:#fdfd96;
+border-style: solid;
+border-color: white;
+}
