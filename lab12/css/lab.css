@@ -1,0 +1,28 @@
+@font-face {
+  font-family: FinkyHeavy;
+  src: url('/Fink-Heavy-Font/FinkHeavy.ttf');
+}
+body{
+  background: url('../img/greeen.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-size: 20px;
+}
+.content{
+  background: #FFE9CE;
+border-style: solid;
+border: 10px dotted #cae7c1;
+padding: 50px;
+margin: 20px;
+}
+.output{
+  background-color: #dbbf9e;
+ width: 600px;
+ border: 15px solid #c4d9a9;
+ padding: 50px;
+ margin: 20px;
+}
+h1{
+  color: #74e0aa;
+}
