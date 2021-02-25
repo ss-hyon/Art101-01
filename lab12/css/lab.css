@@ -1,7 +1,4 @@
-@font-face {
-  font-family: FinkyHeavy;
-  src: url('/Fink-Heavy-Font/FinkHeavy.ttf');
-}
+
 body{
   background: url('../img/greeen.jpg');
   background-repeat:no-repeat;

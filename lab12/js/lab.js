@@ -1,3 +1,9 @@
+/**
+ * Author:    Selena Hyon
+ * Created:   02.17.2021
+ *
+ * Public Domain
+ **/
 //given a number, return a Hogwart's house
 //
 function sortingHat(str){

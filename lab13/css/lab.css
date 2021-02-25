@@ -1,0 +1,35 @@
+body{
+  background: url('../img/loops.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-size: 25px;
+}
+.content{
+   border-radius: 25px;
+  background: #FDFFF5;
+border-style: solid;
+border: 10px solid #cddcd9;
+padding: 50px;
+margin: 20px;
+}
+.output{
+   border-radius: 25px;
+   background: #FDFFF5;
+  border: 10px solid #cddcd9;
+  padding: 50px;
+  margin: 20px;
+}
+#output{
+  column-count: 7;
+  column-gap: 35px;
+}
+h1{
+  color: #83B2FF;
+}
+p{
+  color: #FFDAAB;
+}
+h2{
+  color: #8BF18B;
+}
