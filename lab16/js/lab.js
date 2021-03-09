@@ -5,7 +5,7 @@
  * Public Domain
  **/
 // Using the core $.ajax() method
-var apiEndpoint = "http://xkcd.com/info.0.json"
+var apiEndpoint = "https://xkcd.com/info.0.json"
 
 function putTextOnPage(text) {
   $("#output").html(text);
